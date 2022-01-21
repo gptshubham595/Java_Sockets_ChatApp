@@ -16,7 +16,7 @@
 ## Instruction:
  - Write Your name and click "JOIN"
  - There are different options Like "NOTES","LEAVE","SHUTDOWN","SHUTDOWN ALL"
- - 
+ 
 <img src="./1.png">
 
 <img src="./2.png">
